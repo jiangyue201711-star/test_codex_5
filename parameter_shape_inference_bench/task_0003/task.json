@@ -1,0 +1,8 @@
+{
+  "task_id": "task_0003",
+  "task_type": "residual_relu_network",
+  "input_dimension": 10,
+  "target_parameter": "W1",
+  "query_limit": 100000,
+  "description": "You can query forward(x). The hidden model is a residual ReLU network. Infer the shape of matrix W1."
+}

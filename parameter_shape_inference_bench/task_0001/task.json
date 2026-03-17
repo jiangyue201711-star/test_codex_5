@@ -1,0 +1,8 @@
+{
+  "task_id": "task_0001",
+  "task_type": "maxout_network",
+  "input_dimension": 10,
+  "target_parameter": "A1",
+  "query_limit": 100000,
+  "description": "You can query forward(x). The hidden model is a maxout network. Infer the shape of matrix A1."
+}
