@@ -1,0 +1,8 @@
+{
+  "task_id": "task_0002",
+  "task_type": "relu_one_layer",
+  "input_dimension": 10,
+  "target_parameter": "A1",
+  "query_limit": 100000,
+  "description": "You can query forward(x). The hidden model is a one-layer ReLU network. Infer the shape of matrix A1."
+}
